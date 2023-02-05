@@ -1,0 +1,14 @@
+derle : rustc main.rs
+calistir: ./main
+
+cargo ile dir olsutur : cargo new hello-cargo --bin
+cargoyu calistir : cargo run
+
+GITHUB
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/msarbak/Rust-101.git
+git push -u origin main
