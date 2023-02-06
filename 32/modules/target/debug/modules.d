@@ -1,1 +1,0 @@
-C:\Users\mehmetsarbak\Desktop\rustTest\32\modules\target\debug\modules.exe: C:\Users\mehmetsarbak\Desktop\rustTest\32\modules\src\main.rs C:\Users\mehmetsarbak\Desktop\rustTest\32\modules\src\mehmet.rs
