@@ -1,8 +1,10 @@
+
 derle : rustc main.rs
 calistir: ./main
 
 cargo ile dir olsutur : cargo new hello-cargo --bin
 cargoyu calistir : cargo run
+test: cargo test
 
 GITHUB
 
